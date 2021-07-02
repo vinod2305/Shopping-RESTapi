@@ -2,9 +2,9 @@
 
 ## Description
 
-- Built a REST Api in Node.js using MVC approch by leveraging Node.js + MongoDB.
-- User JWT for Authetication and Authorization.
-- A RESTful Api built for serving as a Backend for a Shopping Cart.
+- Built a REST API in Node.js using the MVC approach by leveraging Node.js + MongoDB.
+- User JWT for Authentication and Authorization.
+- A RESTful API built for serving as a Backend for a Shopping Cart. 
 
 ## Requirements
 
