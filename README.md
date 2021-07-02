@@ -1,5 +1,10 @@
 # Shopping API
 
+## Description
+
+- Built a REST Api in Node.js using MVC approch by leveraging Node.js + MongoDB.
+- User JWT for Authetication and Authorization.
+- A RESTful Api built for serving as a Backend for a Shopping Cart.
 
 ## Requirements
 
